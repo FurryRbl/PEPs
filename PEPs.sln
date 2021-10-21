@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEPs", "PEPs.csproj", "{0BA600CB-637F-40A0-9D19-A17492075675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA600CB-637F-40A0-9D19-A17492075675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA600CB-637F-40A0-9D19-A17492075675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA600CB-637F-40A0-9D19-A17492075675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA600CB-637F-40A0-9D19-A17492075675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B93642-FAE0-40FC-A4B2-2E913A177F4E}
+	EndGlobalSection
+EndGlobal
